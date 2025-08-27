@@ -1,20 +1,11 @@
-# 06 Landuse Change Kumasi
+# Abena Afriyie Adasi Portfolio
 
-## Objective
-Describe the aim of this project.
+Welcome to my GIS, Data Analytics, and Spatial Data Science portfolio.
 
-## Data
-List sources of data used.
+## Sections
+- About
+- Skills
+- Projects
+- Contact
 
-## Tools
-Mention software/libraries used.
-
-## Steps
-1. Step one
-2. Step two
-
-## Outputs
-- Map, dashboard, or chart
-
-## What I Learned
-Summarize key skills gained.
+Each project folder contains data, notebooks, outputs, and documentation.
