@@ -1,5 +1,4 @@
 # 01 School Locator Map
-
 ## Objective
 #  Mapping Schools in Kumasi metropolitan
 
